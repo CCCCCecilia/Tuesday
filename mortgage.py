@@ -11,7 +11,7 @@ month = 1
 Outstanding = P
 # outstanding is changing, so as principal and interest.
 print('month \t Instalment \t Interest \t Principal \t Outstanding')
-Interest_amount = 0 
+Interest_amount
 
 while month <= 240:
     Interest = Outstanding * r
